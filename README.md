@@ -34,14 +34,14 @@ These projects were built through my involvement in the following UCR clubs:
 
 ## ⚙️ Featured Projects
 
-| 📁 File | 📋 Description | 🧰 Tools |
+| 📁 File | 📋 Description |
 |--------|----------------|----------|
-| `AL_Stock_Price_Predictor.ipynb` | Predicts Alabama stock price movement using historical data | Python, pandas, matplotlib |
-| `Amazon_sales.ipynb` | Analyzes Amazon product sales and trends | Python, seaborn, pandas |
-| `CA_wildfirse.ipynb` | Wildfire incident analysis and heatmap visualization in California | Python, geopandas, matplotlib |
-| `Coffee_Sales-2.ipynb` | Sales breakdown and trend analysis for a coffee company | Python, pandas, Excel |
-| `Copy_of_ACM_DAS.ipynb` | Club project exploring data analytics topics (ACM-related) | Python, NumPy, matplotlib |
-| `House_Price_Predictor_.ipynb` | Predicts house prices based on multiple regression features | Python, scikit-learn, matplotlib |
+| `AL_Stock_Price_Predictor.ipynb` | Predicted stock price movement using historical data | 
+| `Amazon_sales.ipynb` | Analyzes Amazon product sales and trends | 
+| `CA_wildfirse.ipynb` | Wildfire incident analysis and heatmap visualization in California | 
+| `Coffee_Sales-2.ipynb` | Sales breakdown and trend analysis for a coffee company | 
+| `Copy_of_ACM_DAS.ipynb` | Club project exploring data analytics topics (ACM-related) | 
+| `House_Price_Predictor_.ipynb` | Predicts house prices based on multiple regression features | 
 
 ---
 

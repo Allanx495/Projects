@@ -1,7 +1,3 @@
-# Projects
-Explore what Im building
-<table> <tr> <td><img src="./acm-ucr-logo.webp" width="120"/></td> <td><b>ACM @ UCR</b><br/>Association for Computing Machinery — where I explored web dev, competitive programming, and open-source sprints.</td> </tr> <tr> <td><img src="./Screenshot 2025-04-29 at 4.19.22 PM.png" width="120"/></td> <td><b>Data Science Society @ UCR (DSS)</b><br/>Dove deep into data visualization, machine learning, and team-based research projects on real-world datasets.</td> </tr> <tr> <td><img src="./aiscucr.jpg" width="120"/></td> <td><b>Artificial Intelligence Student Collective (AISC)</b><br/>Worked on AI/ML applications, model interpretability, and ethical computing with like-minded students.</td> </tr> </table>
-
 # 📼 My Projects
 
 ![Banner](./computer-screen-with-python-code.png)

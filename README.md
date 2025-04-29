@@ -49,18 +49,12 @@ These projects were built through my involvement in the following UCR clubs:
 ## 🌱 What's Next?
 
 This repo grows as I do. I’m currently:
-- Learning **SQL**, **Python**, **R**, and **cloud computing**
-- Building real-world tools from ideas and school projects
+- Building a car price predictor
+- Learning webscraping
+- A vintage car dataset for the Bay Area
+- Working on a Facebook user behavioral dashboard 
 - Getting better at **data storytelling** through dashboards and visuals
 
 ---
 
-## 📸 Image Setup Instructions
-
-If you want to do this for your own repos:
-
-1. 📁 Upload image files via drag-and-drop or commit them in GitHub.
-2. 🧠 Reference the image in markdown using:
-   ```md
-   ![Alt Text](./filename.extension)
 

@@ -10,8 +10,11 @@
 > Includes work from individual exploration and student orgs at UC Riverside (UCR).
 
 ---
+<div align="center">
 
-## 🏫 Projects from UCR Student Organizations
+<h1>🏫 Projects from UCR Student Organizations</h1>
+
+</div>
 
 These projects were built through my involvement in the following UCR clubs:
 
@@ -31,8 +34,11 @@ These projects were built through my involvement in the following UCR clubs:
 </table>
 
 ---
+<div align="center">
 
-## ⚙️ Featured Projects
+<h1>⚙️ Featured Projects</h1>
+
+</div>
 
 | 📁 File                         | 📋 Description                                                               |
 |-------------------------------|------------------------------------------------------------------------------|
@@ -45,8 +51,11 @@ These projects were built through my involvement in the following UCR clubs:
 
 
 ---
+<div align="center">
 
-## 🌱 What's Next?
+<h1>🌱 What's Next?</h1>
+
+</div>
 
 This repo grows as I do. I’m currently:
 - Building a car price predictor

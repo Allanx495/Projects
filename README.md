@@ -1,4 +1,8 @@
-# 📼 My Projects
+<div align="center">
+
+<h1>📼 My Projects</h1>
+
+</div>
 
 ![Banner](./computer-screen-with-python-code.png)
 

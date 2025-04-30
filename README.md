@@ -42,12 +42,12 @@ These projects were built through my involvement in the following UCR clubs:
 
 | 📁 File                         | 📋 Description                                                               |
 |-------------------------------|------------------------------------------------------------------------------|
-| `AL_Stock_Price_Predictor.ipynb`      | Predicted stock price movement using historical data                        |
+| `AL_Stock_Price_Predictor.ipynb`      | Predicted stock price movement using historical data(AISC)                 |
 | `Amazon_sales.ipynb`                  | Analyzes Amazon product sales and trends                                   |
 | `CA_wildfirse.ipynb`                  | Wildfire incident analysis and heatmap visualization in California         |
 | `Coffee_Sales-2.ipynb`                | Sales breakdown and trend analysis for a coffee company                    |
-| `Copy_of_ACM_DAS.ipynb`               | Club project exploring data analytics topics (ACM-related)                 |
-| `House_Price_Predictor_.ipynb`        | Predicts house prices based on multiple regression features                |
+| `Copy_of_ACM_DAS.ipynb`               | Club project exploring data analytics topics(ACM)                          |
+| `House_Price_Predictor_.ipynb`        | Predicts house prices based on multiple regression features(AISC)          |
 
 
 ---

@@ -21,7 +21,7 @@ These projects were built through my involvement in the following UCR clubs:
 <table>
   <tr>
     <td><img src="./acm-ucr-logo.webp" width="100"/></td>
-    <td><strong>ACM @ UCR</strong><br/>Association for Computing Machinery – where I worked on web dev, algorithms, and collaborative sprints.</td>
+    <td><strong>ACM @ UCR</strong><br/>Association for Computing Machinery – where I work on web dev, algorithms, and collaborative sprints.</td>
   </tr>
   <tr>
     <td><img src="./dss.png" width="100"/></td>

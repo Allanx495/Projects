@@ -58,11 +58,11 @@ These projects were built through my involvement in the following UCR clubs:
 </div>
 
 This repo grows as I do. I’m currently:
-- Building a car price predictor
-- Learning webscraping
-- A vintage car dataset for the Bay Area
-- Working on a Facebook user behavioral dashboard 
-- Getting better at **data storytelling** through dashboards and visuals
+- Building a car price predictor.
+- Learning webscraping.
+- Building a vintage car dataset for the Bay Area for car enthusiasts.
+- Working on a Facebook user behavioral dashboard. 
+- Getting better at **data storytelling** through dashboards and visuals.
 
 ---
 

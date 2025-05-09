@@ -2,11 +2,9 @@
 
 <h1>📼 My Projects</h1>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhwOHRhbnk3bGJ1YzJ1cnl6a21ybnQwamdtdHNoNXBiYzJxZXVlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Soccer celebration animation"/>
 </div>
-
-<p align="center">
-  <img src="https://github.com/Allanx495/Projects/blob/main/While_Alive.jpg?raw=true" alt="While alive code loop" width="300"/>
-</p>
 
 > A collection of personal and collaborative projects built with curiosity, code, and caffeine ☕  
 > Includes work from individual exploration and student orgs at UC Riverside (UCR).
@@ -68,5 +66,9 @@ This repo grows as I do. I’m currently:
 
 ---
 
+</div>
 
+<p align="center">
+  <img src="https://github.com/Allanx495/Projects/blob/main/While_Alive.jpg?raw=true" alt="While alive code loop" width="300"/>
+</p>
 

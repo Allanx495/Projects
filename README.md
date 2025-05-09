@@ -4,7 +4,7 @@
 
 </div>
 
-!(./While_Alive.jpg)
+!(/While_Alive.jpg)
 
 > A collection of personal and collaborative projects built with curiosity, code, and caffeine ☕  
 > Includes work from individual exploration and student orgs at UC Riverside (UCR).

@@ -40,7 +40,7 @@ These projects were built through my involvement in the following UCR clubs:
 
 <h1>⚙️ Featured Projects</h1>
 
-</div>
+<div align="center">
 
 | 📁 File | 🗓️ Description |
 |--------|----------------|
@@ -51,7 +51,7 @@ These projects were built through my involvement in the following UCR clubs:
 | [Copy_of_ACM_DAS.ipynb](https://github.com/Allanx495/Projects/blob/main/Copy_of_ACM_DAS.ipynb) | Club project exploring data analytics topics (ACM) |
 | [House_Price_Predictor_.ipynb](https://github.com/Allanx495/Projects/blob/main/House_Price_Predictor_.ipynb) | Predicts house prices based on multiple regression features (AISC) |
 
-
+</div>
 ---
 <div align="center">
 

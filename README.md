@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="Projects/While_Alive.jpg" alt="While alive code loop" width="300"/>
+<img src="Projects/While_Alive.jpg" alt="While_Alive" width="300"/>
 
 
 > A collection of personal and collaborative projects built with curiosity, code, and caffeine ☕  

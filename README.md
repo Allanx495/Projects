@@ -5,9 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="assets/While_Alive.jpg" alt="While alive code loop" width="300"/>
+  <img src="https://github.com/Allanx495/Projects/blob/main/While_Alive.jpg?raw=true" alt="While alive code loop" width="300"/>
 </p>
-
 
 > A collection of personal and collaborative projects built with curiosity, code, and caffeine ☕  
 > Includes work from individual exploration and student orgs at UC Riverside (UCR).

@@ -67,5 +67,13 @@ This repo grows as I do. I’m currently:
 - Getting better at **data storytelling** through dashboards and visuals.
 
 ---
+| 📁 File | 🗓️ Description |
+|--------|----------------|
+| [AL_Stock_Price_Predictor.ipynb](https://github.com/Allanx495/Projects/blob/main/AL_Stock_Price_Predictor.ipynb) | Predicted stock price movement using historical data (AISC) |
+| [Amazon_sales.ipynb](https://github.com/Allanx495/Projects/blob/main/Amazon_sales.ipynb) | Analysis of Amazon product sales and trends |
+| [CA_wildfire.ipynb](https://github.com/Allanx495/Projects/blob/main/CA_wildfire.ipynb) | Wildfire incident analysis and heatmap visualization in California |
+| [Coffee_Sales-2.ipynb](https://github.com/Allanx495/Projects/blob/main/Coffee_Sales-2.ipynb) | Sales breakdown and trend analysis for a coffee company |
+| [Copy_of_ACM_DAS.ipynb](https://github.com/Allanx495/Projects/blob/main/Copy_of_ACM_DAS.ipynb) | Club project exploring data analytics topics (ACM) |
+| [House_Price_Predictor_.ipynb](https://github.com/Allanx495/Projects/blob/main/House_Price_Predictor_.ipynb) | Predicts house prices based on multiple regression features (AISC) |
 
 

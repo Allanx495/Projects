@@ -4,7 +4,8 @@
 
 </div>
 
-(/While_Alive.jpg)
+<img src="Projects/While_Alive.jpg" alt="While alive code loop" width="300"/>
+
 
 > A collection of personal and collaborative projects built with curiosity, code, and caffeine ☕  
 > Includes work from individual exploration and student orgs at UC Riverside (UCR).

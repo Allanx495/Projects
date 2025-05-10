@@ -16,7 +16,6 @@
 
 </div>
 
-These projects were built through my involvement in the following UCR clubs:
 
 <table>
   <tr>

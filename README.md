@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><img src="./aiscucr.jpg" width="100"/></td>
-    <td><strong>Artificial Intelligence Student Collective (AISC)</strong><br/>Focused on AI, ethical computing, and model building projects with peers.</td>
+    <td><strong>Artificial Intelligence Student Collective (AISC) @ UCR</strong><br/>Focused on AI, ethical computing, and model building projects with peers.</td>
   </tr>
 </table>
 

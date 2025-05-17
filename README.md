@@ -20,15 +20,15 @@
 <table>
   <tr>
     <td><img src="./acm-ucr-logo.webp" width="100"/></td>
-    <td><strong>ACM @UCR</strong><br/>Association for Computing Machinery – where I work on web dev, algorithms, and collaborative sprints.</td>
+    <td><strong>ACM @UCR</strong><br/>Association for Computing Machinery – Web dev, algorithms, and collaborative sprints.</td>
   </tr>
   <tr>
     <td><img src="./dss.png" width="100"/></td>
-    <td><strong>Data Science Society @UCR (DSS)</strong><br/>Hands-on experience in machine learning, data visualization, and real-world datasets.</td>
+    <td><strong>Data Science Society @UCR (DSS)</strong><br/>Dats Science and Machine learning.</td>
   </tr>
   <tr>
     <td><img src="./aiscucr.jpg" width="100"/></td>
-    <td><strong>Artificial Intelligence Student Collective (AISC) @UCR</strong><br/>Focused on AI, ethical computing, and model building projects with peers.</td>
+    <td><strong>Artificial Intelligence Student Collective (AISC) @UCR</strong><br/>Focused on AI, ethical computing, and model building projects.</td>
   </tr>
 </table>
 

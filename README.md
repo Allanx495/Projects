@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><img src="./dss.png" width="100"/></td>
-    <td><strong>Data Science Society @UCR (DSS)</strong><br/>Dats Science and Machine learning.</td>
+    <td><strong>Data Science Society @UCR (DSS)</strong><br/>Data Science and Machine learning.</td>
   </tr>
   <tr>
     <td><img src="./aiscucr.jpg" width="100"/></td>

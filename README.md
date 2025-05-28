@@ -1,4 +1,5 @@
-🧠 Explore What I'm Building
+# 🧠 Explore What I'm Building
+
 <p align="center">
   <img src="computer-screen-with-python-code.png" alt="Coding Setup" width="600"/>
 </p>

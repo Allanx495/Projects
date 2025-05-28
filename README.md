@@ -1,6 +1,5 @@
-<p align="center">
-# 🧠 Explore What I'm Building
-</p>
+<h1 align="center">🧠 Explore What I'm Building</h1>
+
 
 <p align="center">
   <img src="computer-screen-with-python-code.png" alt="Coding Setup" width="600"/>
@@ -21,3 +20,8 @@
 
 
 personal projects:
+
+
+<p align="center">
+  <img src="While_Alive.jpg.png" alt="Coding Setup" width="600"/>
+</p>

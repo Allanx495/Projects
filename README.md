@@ -1,3 +1,4 @@
+<p align="center">
 # 🧠 Explore What I'm Building
 
 <p align="center">
@@ -11,41 +12,12 @@
 
 ## 🔍 Projects
 
-### 🚗 Car Price Predictor  
-![Org Logo](acm-ucr-logo.webp)  
-Uses Random Forest and XGBoost to predict car resale values based on features like year, mileage, and model.
+| 🏛️ Org Logo | 📂 Project | 📝 Description |
+|-------------|------------|----------------|
+| ![ACM](acm-ucr-logo.webp) | [Amazon_sales.ipynb](./Amazon_sales.ipynb) | Exploratory data analysis on Amazon product sales and seasonality. |
 
----
+| ![AISC](aiscucr.jpg) | [AL_Stock_Price_Predictor.ipynb](./AL_Stock_Price_Predictor.ipynb) | Forecasting Alabama stock index prices using time series models. |
+| ![AISC](aiscucr.jpg) | [House_Price_Predictor_.ipynb](./House_Price_Predictor_.ipynb) | Regression model to estimate house resale value from multiple features. |
+| ![AISC](aiscucr.jpg) | *Email_Spam_Classifier.ipynb* (Not uploaded yet) | Classifies spam vs. non-spam emails using NLP and logistic regression. |
 
-### 📈 Amazon Sales Analysis  
-![Org Logo](acm-ucr-logo.webp)  
-Explores sales trends to identify top-performing products and seasonal patterns in e-commerce data.
-
----
-
-### 🔥 California Wildfire Analysis  
-![Org Logo](acm-ucr-logo.webp)  
-Analyzes wildfire frequency and severity across regions, helping identify climate-driven risk areas.
-
----
-
-### 🧬 Parkinson's Risk Classifier  
-![Org Logo](acm-ucr-logo.webp)  
-Applies SVM on vocal biomarkers to detect early signs of Parkinson’s, using accuracy metrics and confusion matrix.
-
----
-
-### ☕ Coffee Sales Dashboard  
-![Org Logo](acm-ucr-logo.webp)  
-Performs data cleaning and visualization on international coffee trade and consumption.
-
----
-
-### 🏠 House Price Estimator  
-![Org Logo](acm-ucr-logo.webp)  
-Builds a regression model to estimate home prices based on location, square footage, and condition.
-
----
-
-### 📊 Alabama Stock Price Predictor  
-![Org Logo](acm-ucr-logo.web)
+| ![DSS](dss.png) | [EDA_Parkinsons_Risk.ipynb](./EDA_Parkinsons_Risk.ipynb) | Parkinson’s risk prediction using SVM and vocal biomarker datasets. |

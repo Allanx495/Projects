@@ -1,10 +1,10 @@
+🧠 Explore What I'm Building
 <p align="center">
   <img src="computer-screen-with-python-code.png" alt="Coding Setup" width="600"/>
 </p>
 
-# 🧠 Explore What I'm Building
 
-Welcome to my GitHub space where I experiment, analyze, and build cool data projects! I'm currently a student at **UC Riverside**, part of **ACM @ UCR** and **AIS**, and passionate about using data for real-world impact.
+
 
 ---
 

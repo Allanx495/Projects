@@ -23,5 +23,5 @@ personal projects:
 
 
 <p align="center">
-  <img src="While_Alive.jpg.png" alt="Coding Setup" width="600"/>
+  <img src="While_Alive.jpg" alt="Coding Setup" width="600"/>
 </p>

@@ -5,11 +5,9 @@
   <img src="computer-screen-with-python-code.png" alt="Coding Setup" width="600"/>
 </p>
 
-<h1 align="left"> > Built with code, caffeine, and curiosity.</h2>
+<h1 align="left"> > Built with caffeine and curiosity.</h2>
 
 
-
----
 
 ## 🔍 Projects
 

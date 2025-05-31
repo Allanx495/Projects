@@ -4,11 +4,6 @@
 
 
 
-<div align="left">
-<img src="https://media.tenor.com/iqo2FfPLq2gAAAAi/arrow-flecha.gif" width="80" alt="Arrow Down"/>
-<h1>Built with caffeine and curiosity</h1>
-
-
 ## 🔍 Projects
 
 | 🏛️ Org  | 📂  | 📝 Description |

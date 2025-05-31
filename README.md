@@ -10,7 +10,7 @@
 
 <div align="center"> 
 <h2>Hello there!  Im Allan Ortiz 
-<img src="https://i.gifer.com/7sZH.gif" width="300" alt="Smiling Computer"/></h2>
+<img src="https://i.gifer.com/7sZH.gif" width="100" alt="Smiling Computer"/></h2>
 
 
 

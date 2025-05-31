@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif" width="300"/>
 </p>
+<p align="center">
+  <img src="https://i.gifer.com/6n4.gif" width="300" alt="Thinking Monkey"/>
+</p>
 
 
 <h1 align="left"> > Built with caffeine and curiosity.</h2>

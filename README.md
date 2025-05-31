@@ -1,8 +1,4 @@
 <div align="center">
-  <h1>Explore what I'm building!
-  <img src="https://i.gifer.com/6n4.gif" width="250" alt="Thinking Monkey"/></h1>
-
-  <div align="center">
   <div style="display: inline-block; vertical-align: middle;">
     <img src="https://i.gifer.com/6n4.gif" width="250" alt="Thinking Monkey"/>
   </div>

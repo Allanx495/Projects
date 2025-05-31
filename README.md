@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.gifer.com/6n4.gif" width="300" alt="Thinking Monkey"/>
-</p> <h1 align="center">🧠 Explore What I'm Building</h1>
+  <h1 align="center">🧠 Explore What I'm Building</h1>
+</p>
 
 
 

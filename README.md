@@ -26,6 +26,7 @@
 | [CA_wildfirse.ipynb](./CA_wildfirse.ipynb) |EDA of California Wildfires |
 | [Coffee_Sales-2.ipynb](./Coffee_Sales-2.ipynb) |EDA of a coffee shop dataset + prediction model that forecasts profit and best scheduling times | 
 | [Car$_predictor.ipynb](./Car$_predictor.ipynb) | Built a car price predictor to help with transparency in the automobile market | 
+| [Amazon_sales.ipynb](./Amazon_sales.ipynb) | Analyzed Amazon Sales to better comprehend a sales analysis of their inventory |
 
 <p align="center">
   <img src="While_Alive.jpg" alt="Coding Setup" width="350"/>

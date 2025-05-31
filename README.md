@@ -4,6 +4,10 @@
 <p align="center">
   <img src="computer-screen-with-python-code.png" alt="Coding Setup" width="600"/>
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif" width="300"/>
+</p>
+
 
 <h1 align="left"> > Built with caffeine and curiosity.</h2>
 

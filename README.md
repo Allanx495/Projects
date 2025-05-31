@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://i.gifer.com/6n4.gif" width="300" alt="Thinking Monkey"/>
 </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="300" alt="Cool Cat"/>
+</p>
 
 
 <h1 align="left"> > Built with caffeine and curiosity.</h2>

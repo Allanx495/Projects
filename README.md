@@ -12,7 +12,7 @@
 | <p align="center"><img src="aiscucr.jpg" width="110"/> | [AL_Stock_Price_Predictor.ipynb](./AL_Stock_Price_Predictor.ipynb) | Forecasting stock index prices using time series models. |
 | <p align="center"><img src="dss.png" width="70"/> | [EDA_Parkinsons_Risk.ipynb](./EDA_Parkinsons_Risk.ipynb) | Parkinson’s risk prediction using SVM and vocal biomarker datasets. |
 
---
+---
 
 <h1 align="center"> Personal projects, built with caffeine and curiosity.
 <p align="center">

@@ -8,7 +8,7 @@
 
 ## 🔍 Projects
 
-| 🏛️ Org  | 📂 Project | 📝 Description |
+| 🏛️ Org  | 📂  | 📝 Description |
 |-------------|------------|----------------|
 | <p align="center"><img src="acm-ucr-logo.webp" width="70"/> | [Copy_of_ACM_DAS.ipynb](./Copy_of_ACM_DAS.ipynb) | Forecasting weather with predictive models and time series forecasting. |
 | <p align="center"><img src="aiscucr.jpg" width="110"/> | [AL_Stock_Price_Predictor.ipynb](./AL_Stock_Price_Predictor.ipynb) | Forecasting stock index prices using time series models. |
@@ -22,6 +22,12 @@
 
 <h1 align="left"> > Built with caffeine and curiosity.</h2>
 
+
+| 📂  | Description|
+|-------------|------------|
+| [CA_wildfirse.ipynb](./CA_wildfirse.ipynb) |EDA of California Wildfires |
+| [Coffee_Sales-2.ipynb](./Coffee_Sales-2.ipynb) |EDA of a coffee shop dataset + prediction model that forecasts profit and best scheduling times | 
+| [Car$_predictor.ipynb](./Car$_predictor.ipynb) | Built a car price predictor to help with transparency in the automobile market | 
 
 <p align="center">
   <img src="While_Alive.jpg" alt="Coding Setup" width="350"/>

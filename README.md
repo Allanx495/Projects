@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://i.gifer.com/7sZH.gif" width="100" alt="Smiling Computer"/>
+    <img src="https://i.gifer.com/7sZH.gif" width="350" alt="Smiling Computer"/>
   </div>
   <div style="display: inline-block; vertical-align: middle; padding-left: 10px;">
     <h1 style="margin: 0;">Explore what I'm building!</h1>

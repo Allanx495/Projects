@@ -1,12 +1,5 @@
 <h1 align="center">🧠 Explore What I'm Building</h1>
 
-
-<p align="center">
-  <img src="computer-screen-with-python-code.png" alt="Coding Setup" width="600"/>
-</p>
-<p align="center">
-  <img src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif" width="300"/>
-</p>
 <p align="center">
   <img src="https://i.gifer.com/6n4.gif" width="300" alt="Thinking Monkey"/>
 </p>

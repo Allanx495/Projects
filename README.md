@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Explore what I'm building!
-  <img src="https://i.gifer.com/6n4.gif" width="300" alt="Thinking Monkey"/></h1>
+  <img src="https://i.gifer.com/6n4.gif" width="700" alt="Thinking Monkey"/></h1>
 
 
 

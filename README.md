@@ -1,15 +1,5 @@
-<div align="center">
-  <div style="display: inline-block; vertical-align: middle;">
-    <img src="https://i.gifer.com/7sZH.gif" width="300" alt="Smiling Computer"/>
-  </div>
-  <div style="display: inline-block; vertical-align: middle; padding-left: 10px;">
-    <h1 style="margin: 0;">Explore what I'm building!</h1>
-  </div>
-</div>
-
-
 <div align="center"> 
-<h1>Explore what Im building
+<h1>Explore what Im building!
 <img src="https://i.gifer.com/7sZH.gif" width="100" alt="Smiling Computer"/></h1>
 
 

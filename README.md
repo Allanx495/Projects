@@ -28,6 +28,4 @@
 | [Car$_predictor.ipynb](./Car$_predictor.ipynb) | Built a car price predictor to help with transparency in the automobile market | 
 | [Amazon_sales.ipynb](./Amazon_sales.ipynb) | Analyzed Amazon Sales to better comprehend a sales analysis of their inventory |
 
-<p align="center">
-  <img src="While_Alive.jpg" alt="Coding Setup" width="220"/>
-</p>
+

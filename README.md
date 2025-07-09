@@ -12,6 +12,27 @@
 | <p align="center"><img src="aiscucr.jpg" width="110"/> | [AL_Stock_Price_Predictor.ipynb](./AL_Stock_Price_Predictor.ipynb) | Forecasting stock index prices using time series models. |[Spam Email Classifier](https://github.com/Allanx495/spam-email-classifier) | Detect spam emails using a neural network and Flask web interface. |
 | <p align="center"><img src="dss.png" width="70"/> | [EDA_Parkinsons_Risk.ipynb](./EDA_Parkinsons_Risk.ipynb) | Parkinson’s risk prediction using SVM and vocal biomarker datasets. |
 
+
+<table>
+  <thead>
+    <tr>
+      <th>🏛️ Org</th>
+      <th>📄 Project</th>
+      <th>🧠 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-emblem-structure.svg/1024px-Commons-emblem-structure.svg.png" width="50"/></td>
+      <td><a href="https://github.com/Allanx495/AL_Stock_Price_Predictor.ipynb">AL_Stock_Price_Predictor.ipynb</a></td>
+      <td>Forecasting stock index prices using time series models.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Allanx495/spam-email-classifier">Spam Email Classifier</a></td>
+      <td>Detect spam emails using a neural network and Flask web interface.</td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 <h1 align="center"> Personal projects, built with caffeine and curiosity: 

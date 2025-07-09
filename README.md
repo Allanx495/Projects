@@ -9,7 +9,7 @@
 | 🏛️ Org  | 📂  | 📝 Description |
 |-------------|------------|----------------|
 | <p align="center"><img src="acm-ucr-logo.webp" width="70"/> | [Copy_of_ACM_DAS.ipynb](./Copy_of_ACM_DAS.ipynb) | Forecasting weather with predictive models and time series forecasting. |
-| <p align="center"><img src="aiscucr.jpg" width="110"/> | [AL_Stock_Price_Predictor.ipynb](./AL_Stock_Price_Predictor.ipynb) | Forecasting stock index prices using time series models. |
+| <p align="center"><img src="aiscucr.jpg" width="110"/> | [AL_Stock_Price_Predictor.ipynb](./AL_Stock_Price_Predictor.ipynb) | Forecasting stock index prices using time series models. |[Spam Email Classifier](https://github.com/Allanx495/spam-email-classifier) | Detect spam emails using a neural network and Flask web interface. |
 | <p align="center"><img src="dss.png" width="70"/> | [EDA_Parkinsons_Risk.ipynb](./EDA_Parkinsons_Risk.ipynb) | Parkinson’s risk prediction using SVM and vocal biomarker datasets. |
 
 ---
